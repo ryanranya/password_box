@@ -1,16 +1,7 @@
 # password_box
 
-A new Flutter project.
+便捷的密码管理App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+password_box是一款解决当前互联网环境下，每个人可能拥有各个平台的账号密码而导致记忆错乱，如果使用网站存储你的密码可能存在密码泄漏的安全隐患。password_box通过本地加密的方式存储你的密码到本机，当然你也可以通过上传到服务器来存储你的密码，服务器通过加密的方式存储你的密码。可能你重服务器获取到的密码也是一串看不懂的加密文字，这是对你密码的安全守护
